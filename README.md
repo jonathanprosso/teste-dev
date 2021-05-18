@@ -1,5 +1,4 @@
 # 💻 Teste Dev 
-![image](https://user-images.githubusercontent.com/20840068/117482275-84729d80-af3a-11eb-8a4d-73e65ee49a2c.png)
 
 ## Problema
 
